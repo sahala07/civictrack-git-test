@@ -1,7 +1,7 @@
 # HEATBOX PORTAL
 
 This is a Django 6.0 project configured for production deployment.
-
+asdf
 ## Deployment preparation
 
 1. Create a Python virtual environment and install dependencies:
